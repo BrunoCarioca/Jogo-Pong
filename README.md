@@ -1,2 +1,3 @@
-# Jogo-Pong
-O objetivo deste projeto é desenvolver o jogo Pong, com a finalidade de estudo e aprendizagem.   
+# Pong
+##  Jogo - Desenvolvido em Java  
+Projeto feito para estudar a linguagem java  e logica de programação focada em jogos.
